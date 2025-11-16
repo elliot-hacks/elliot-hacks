@@ -1,12 +1,11 @@
-# Hi there! 👋 I'm Elliot (@elliot-hacks)
+# Hi there! 👋 I'm Elliot (@elliot-hacks), Just a Tech ;)
 
-- My name is Elliot Nkwama a Cyber Security Graduate
-- 👀 I’m interested in cybersecurity and Python programming.
+- 👀 I’m interested in Cybersecurity, Python programming...
 - 🌱 I’m currently learning advanced penetration testing techniques and deepening my Python skills.
 - 💞️ I’m looking to collaborate on open-source security projects and initiatives that utilize Python for automation and security solutions.
 - 📫 How to reach me: You can reach me via email at [Email me](mailto:thisguyhack@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/elliot-hacks).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I engage my free in a Capture The Flag (CTF) competitions.
+- ⚡ Hobiees: I engage my free in a Capture The Flag (CTF) competitions, but I also play chess a little
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thisguyhack) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elliot.nkwama) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elliot-hacks) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/elliotH4cks) 
